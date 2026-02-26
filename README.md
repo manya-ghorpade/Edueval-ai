@@ -3,6 +3,7 @@
 AI-Powered Education Evaluation Platform (Full Stack)  
 Built using React, FastAPI, and Machine Learning.
 
+Designed to automate and enhance academic evaluation using AI-driven insights.
 ---
 
 ## 🚀 Features
@@ -37,7 +38,8 @@ Built using React, FastAPI, and Machine Learning.
 ---
 
 ## 📂 Project Structure
-
+backend/  → API + ML logic  
+frontend/ → React UI
 ---
 
 ## ⚙️ Installation
